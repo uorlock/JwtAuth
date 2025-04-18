@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 using JwtAuth.Data;
 using JwtAuth.Services;
 using Microsoft.EntityFrameworkCore;
+=======
+>>>>>>> 3a7cfc9eb15e41828edbb10daac3f6eb914ad0d8
 using Scalar.AspNetCore;
 var builder = WebApplication.CreateBuilder(args);
 
